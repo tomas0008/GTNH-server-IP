@@ -2,7 +2,7 @@ const offlineText = "offline";
 const offlinePicPath = "circle_red.png";
 const onlinePicPath = "circle_green.png";
 
-const IP = "test";
+const IP = null;
 
 
 function onLoad()
