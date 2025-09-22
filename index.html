@@ -11,5 +11,10 @@
 </head>
 <body onload="onLoad()">
 	<p>IP: <span id="IP"></span></p>
+	<script>
+		setInterval(function() {
+    		window.location.href = window.location.href.split('?')[0] + '?t=' + new Date().getTime();
+		}, 60000);
+	</script>
 </body>
 </html>
