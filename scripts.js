@@ -2,7 +2,7 @@ const offlineText = "offline";
 const offlinePicPath = "circle_red.png";
 const onlinePicPath = "circle_green.png";
 
-const IP = "6.tcp.eu.ngrok.io:16320";
+const IP = "4.tcp.eu.ngrok.io:19571";
 
 
 function onLoad()
